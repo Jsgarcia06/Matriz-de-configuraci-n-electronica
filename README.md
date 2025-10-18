@@ -14,4 +14,4 @@ En esta actividad se implementa una matriz de configuración electrónica en for
 - JavaScript
 
 ## Autor
-- **Juan Sebastián García Valderrama** - [[UsuarioGitHub](https://github.com/Jsgarcia06))
+- **Juan Sebastián García Valderrama** - [[Usuario](https://github.com/Jsgarcia06))
